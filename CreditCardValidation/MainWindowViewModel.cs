@@ -135,7 +135,7 @@ namespace CreditCardValidation
         {
             IValidationAlgorithm validation = new Luhn10();
 
-            bool result = validation.Validate(_validationNumber);
+            bool result = validation.Validate(ValidationNumber);
 
             if (result == true)
             {
