@@ -1,0 +1,4 @@
+C:\Users\speechless\Documents\GitHub\CreditCardValidation\validation.luhn10\bin\Debug\validation.luhn10.dll
+C:\Users\speechless\Documents\GitHub\CreditCardValidation\validation.luhn10\bin\Debug\validation.luhn10.pdb
+C:\Users\speechless\Documents\GitHub\CreditCardValidation\validation.luhn10\obj\Debug\validation.luhn10.dll
+C:\Users\speechless\Documents\GitHub\CreditCardValidation\validation.luhn10\obj\Debug\validation.luhn10.pdb
